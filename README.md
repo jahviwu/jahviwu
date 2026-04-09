@@ -1,5 +1,5 @@
 # 💫 About Me:
-📗 Studying Computer Science at Cal Poly Pomona<br>💻 Interested in web/app development <br>📱 Currently practicing user interface <br><br>
+📗 Studying Computer Science at Cal Poly Pomona<br>💻 Interested in web/app development <br>
 
 
 ## 🌐 Socials:
