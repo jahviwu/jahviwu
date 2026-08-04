@@ -1,5 +1,5 @@
 # 💫 About Me:
-📗 Computer Science Major (Minor in Data Science) at Cal Poly Pomona (Class of 2026)<br> 
+📗 Recent Computer Science and Data Science graduate from Cal Poly Pomona<br> 
 💻 Passionate about Full-Stack Development, AI/ML, and Generative Models<br>
 🚀 Currently building a custom RAG pipeline for scalable knowledge retrieval and generation<br>
 
