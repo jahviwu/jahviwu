@@ -1,7 +1,7 @@
 # 💫 About Me:
-📗 Computer Science Major (Minor in Data Science) at Cal Poly Pomona (Class of 2026)
-💻 Passionate about Full-Stack Development, AI/ML, and Generative Models
-🚀 Currently building a custom RAG pipeline for scalable knowledge retrieval and generation
+📗 Computer Science Major (Minor in Data Science) at Cal Poly Pomona (Class of 2026)<br> 
+💻 Passionate about Full-Stack Development, AI/ML, and Generative Models<br>
+🚀 Currently building a custom RAG pipeline for scalable knowledge retrieval and generation<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-wu) 
